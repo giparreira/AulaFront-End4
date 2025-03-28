@@ -1,3 +1,7 @@
-seletor {
-    propriedade: valor;
+.classe1 {
+    color: paleturquoise;
+}
+
+body{
+font-family: 'Oldenburg';
 }
