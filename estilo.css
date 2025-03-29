@@ -1,7 +1,12 @@
-.classe1 {
-    color: paleturquoise;
+.desafio1 {
+    color: orangered;
 }
-
-body{
-font-family: 'Oldenburg';
+#lista1 {
+    color: blue;
+}
+#lista2 {
+    color:blue;
+}
+.fundo {
+    background-color: pink;
 }
